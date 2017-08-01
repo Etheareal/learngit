@@ -5,3 +5,4 @@ Git tracks changes of files.
 撒打算打算打死打死按时是 
 蒋孝伟是煞笔煞笔煞笔煞笔
 蒋孝伟是是sb
+Creating a new branch is quick.
